@@ -1,0 +1,65 @@
+[
+  {
+    "companyTitle": "Precision Builders",
+    "companycategory": "Builder",
+    "companyAddress": "448 N. Cedar Bluff Rd. # 313 Knoxville TN 37923",
+    "companyPhone": "(865) 426-7375",
+    "companyWebsite": "http://www.precisionhouses.com/"
+  },
+  {
+    "companyTitle": "RP Homes",
+    "companycategory": "Builder",
+    "companyAddress": "3200 N. Hawthorne St. Chattanooga TN 37406",
+    "companyPhone": "(423) 598-2955",
+    "companyWebsite": "https://rphomes.community/"
+  },
+  {
+    "companyTitle": "Healy Homes LLC",
+    "companycategory": "Builder",
+    "companyAddress": "11020 Kingston Pike Suite 250 Knoxville TN 37934",
+    "companyPhone": "(865) 679-0780",
+    "companyWebsite": "http://www.healybuilt.com/"
+  },
+  {
+    "companyTitle": "Northshore Construction Inc",
+    "companycategory": "General Contractor",
+    "companyAddress": "7017 Hartwinn Lane Knoxville TN 37918",
+    "companyPhone": "(865) 200-9251",
+    "companyWebsite": "http://www.northshoretn.com/"
+  },
+  {
+    "companyTitle": "Keener Homes, Inc.",
+    "companycategory": "Builder",
+    "companyAddress": "218 Lakeside Plaza Loudon TN 37774",
+    "companyPhone": "(865) 458-1759",
+    "companyWebsite": "http://www.keenerhomes.net/"
+  },
+  {
+    "companyTitle": "Halford Smoky Builders Inc.",
+    "companycategory": "Builder",
+    "companyAddress": "1523 Starwood Way Sevierville TN 37862",
+    "companyPhone": "(850) 685-7072",
+    "companyWebsite": "https://www.facebook.com/profile.php?id=100093548653228"
+  },
+  {
+    "companyTitle": "Dream Builder Construction, LLC",
+    "companycategory": "Builder",
+    "companyAddress": "2475 East Parkway Gatlinburg TN 37738",
+    "companyPhone": "(865) 436-7500",
+    "companyWebsite": "https://dreambuilderservices.com/"
+  },
+  {
+    "companyTitle": "Heritage Building Co LLC",
+    "companycategory": "Builder",
+    "companyAddress": "342 Old Middlesboro Hwy La Follette TN 37766",
+    "companyPhone": "(423) 494-1875",
+    "companyWebsite": "http://heritagebuildingco.com/"
+  },
+  {
+    "companyTitle": "The Sharp Companies, Inc.",
+    "companycategory": "Builder",
+    "companyAddress": "3347 Rudy Street Knoxville TN 37921",
+    "companyPhone": "(865) 523-3333",
+    "companyWebsite": "https://thesharpcompaniesinc.com/"
+  }
+]
